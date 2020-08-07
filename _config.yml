@@ -1,0 +1,11 @@
+title: Heeuk Kang
+email: gmldnr96@gmail.com
+description: Hello guys!
+url: "https://example.org"
+twitter: usernamewithoutatsymbol
+
+baseurl: ""
+permalink: /:categories/:title:output_ext
+markdown: kramdown
+plugins:
+  - jekyll-feed
