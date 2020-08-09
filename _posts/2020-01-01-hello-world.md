@@ -1,17 +1,16 @@
 ---
 layout: post
-title:	Hello World!
-date:	2020-01-01
-author:	Lorem Ipsum
+title: Hello World!
+date: 2020-01-01
+author: Lorem Ipsum
 description: The first post on this website.
 ogimage: opengraphimage.jpeg
-
 ---
 
-Lorem markdownum cum dixit exspectare sanguine favillae Boreas in libandas unda
-ast lacrimas, est [monte membra](http://quem.io/semina) mediumque vetus! Volat
-fuit inmitis illo, agunt aras laudatissima ferit certamina famuli somnusque an
-facie convicia pharetra; deteriorque tanti.
+> Lorem markdownum cum dixit exspectare sanguine favillae Boreas in libandas unda
+> ast lacrimas, est [monte membra](http://quem.io/semina) mediumque vetus! Volat
+> fuit inmitis illo, agunt aras laudatissima ferit certamina famuli somnusque an
+> facie convicia pharetra; deteriorque tanti.
 
 ## Serpentis unus est haesisse iam magno maris
 
@@ -45,7 +44,7 @@ criminibusque? Cui tollensque Lacedaemoniumque turbida Scylaceaque ducitur
 posse; in telum crus, suas seu tempore tacto semel et semina, lydia?
 
 Nostrasque meruique nunc perdidimus: ter ungues thalamoque nullus. Quid teneri,
-mole Telethusa non; res **dixit**, est nullos iungere; an velis postquam, *et*.
+mole Telethusa non; res **dixit**, est nullos iungere; an velis postquam, _et_.
 Non herbae: sub Stygias morsibus.
 
 1. Vacuae fassoque vidit
@@ -53,5 +52,5 @@ Non herbae: sub Stygias morsibus.
 3. Abstinet sparsis
 
 Petiit conterit **quo iussit** nomen opes tum passus, iam **possemque fixit**
-spectabilis: barbare index inpedit Rutulos canaeque, in. Rumor *terrae* cognita
+spectabilis: barbare index inpedit Rutulos canaeque, in. Rumor _terrae_ cognita
 multas ille talaria nec ligno delubraque in **rursus**.
