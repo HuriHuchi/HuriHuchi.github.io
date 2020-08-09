@@ -5,6 +5,7 @@ date: 2020-01-01
 author: Lorem Ipsum
 description: The first post on this website.
 ogimage: opengraphimage.jpeg
+featured: false
 ---
 
 > Lorem markdownum cum dixit exspectare sanguine favillae Boreas in libandas unda
