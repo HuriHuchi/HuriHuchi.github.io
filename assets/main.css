@@ -69,3 +69,8 @@ hr {
 .small {
   font-size: 0.8em;
 }
+
+blockquote {
+  border-left: 3px solid #aaa;
+  padding-left: 18px;
+}
