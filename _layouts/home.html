@@ -2,8 +2,21 @@
 layout: default
 ---
 
+<style>
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
+  header a {
+    width: 1.6em;
+    height: 1.6em;
+    align-self: center;
+  }
+</style>
+
 <header>
   <h1>{{ site.title | escape }}</h1>
+  <a href="/about/"><img src="/assets/logo.png" alt="profile-image" /></a>
 </header>
 
 <main>
