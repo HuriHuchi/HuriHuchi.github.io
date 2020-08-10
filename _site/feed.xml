@@ -1,51 +1,96 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-09T22:32:12+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Heeuk Kang</title><subtitle>Hello guys!</subtitle><entry><title type="html">My first Post!</title><link href="http://localhost:4000/First-post.html" rel="alternate" type="text/html" title="My first Post!" /><published>2020-08-09T00:00:00+09:00</published><updated>2020-08-09T00:00:00+09:00</updated><id>http://localhost:4000/First-post</id><content type="html" xml:base="http://localhost:4000/First-post.html">&lt;p&gt;Hello!&lt;/p&gt;</content><author><name>heeuk Kang</name></author><summary type="html">Hello!</summary></entry><entry><title type="html">Hello World!</title><link href="http://localhost:4000/hello-world.html" rel="alternate" type="text/html" title="Hello World!" /><published>2020-01-01T00:00:00+09:00</published><updated>2020-01-01T00:00:00+09:00</updated><id>http://localhost:4000/hello-world</id><content type="html" xml:base="http://localhost:4000/hello-world.html">&lt;p&gt;Lorem markdownum cum dixit exspectare sanguine favillae Boreas in libandas unda
-ast lacrimas, est &lt;a href=&quot;http://quem.io/semina&quot;&gt;monte membra&lt;/a&gt; mediumque vetus! Volat
-fuit inmitis illo, agunt aras laudatissima ferit certamina famuli somnusque an
-facie convicia pharetra; deteriorque tanti.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-10T18:19:00+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Heeuk Kang</title><subtitle>Hello guys!</subtitle><entry><title type="html">기장이 졸더라도 비행기는 추락하면 안 된다</title><link href="http://localhost:4000/%EA%B8%B0%EC%9E%A5%EC%9D%B4-%EC%A1%B8%EB%8D%94%EB%9D%BC%EB%8F%84-%EB%B9%84%ED%96%89%EA%B8%B0%EB%8A%94-%EC%B6%94%EB%9D%BD%ED%95%98%EB%A9%B4-%EC%95%88-%EB%90%9C%EB%8B%A4.html" rel="alternate" type="text/html" title="기장이 졸더라도 비행기는 추락하면 안 된다" /><published>2020-08-01T00:00:00+09:00</published><updated>2020-08-01T00:00:00+09:00</updated><id>http://localhost:4000/%EA%B8%B0%EC%9E%A5%EC%9D%B4-%EC%A1%B8%EB%8D%94%EB%9D%BC%EB%8F%84-%EB%B9%84%ED%96%89%EA%B8%B0%EB%8A%94-%EC%B6%94%EB%9D%BD%ED%95%98%EB%A9%B4-%EC%95%88-%EB%90%9C%EB%8B%A4</id><content type="html" xml:base="http://localhost:4000/%EA%B8%B0%EC%9E%A5%EC%9D%B4-%EC%A1%B8%EB%8D%94%EB%9D%BC%EB%8F%84-%EB%B9%84%ED%96%89%EA%B8%B0%EB%8A%94-%EC%B6%94%EB%9D%BD%ED%95%98%EB%A9%B4-%EC%95%88-%EB%90%9C%EB%8B%A4.html">&lt;hr /&gt;
 
-&lt;h2 id=&quot;serpentis-unus-est-haesisse-iam-magno-maris&quot;&gt;Serpentis unus est haesisse iam magno maris&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+23일, 부산에 기록적인 폭우가 쏟아졌다.&lt;/p&gt;
 
-&lt;p&gt;Phaethontis tangi, Nereides aures. &lt;strong&gt;Parvum fecit&lt;/strong&gt;: Non induruit scelus: Tmolo
-herbae, &lt;strong&gt;est cantare numerant&lt;/strong&gt;, per. Malum aliis, iste num Pellaeus, mollit
-&lt;a href=&quot;http://de-spem.com/cum.aspx&quot;&gt;rescindere nervi&lt;/a&gt;, umerique profuga raptusque
-maritum stagna. Erubui ad dominus ignibus merito &lt;strong&gt;tria reppulit omnia&lt;/strong&gt; enim
-flentes illius: terra. Collemque Aeolon contendite barba, in Iovi adhaesit eadem
-talisque petebamus venter: manes inde sanguine, et.&lt;/p&gt;
+&lt;p&gt;시간당 86mm의 비가 부산 일대를 삼켜버렸다. 대로변의 맨홀에서는 물이 폭포처럼 쏟아져 나왔고, 물바다가 된 버스에서 승객들이 대피하는 영상이 언론으로 전해졌다. 부산시는 혼란에 빠졌다. 그리고 혼란에는 언제나 비극이 함께한다. 한 지하차도로 쏟아져 들어온 빗물에 차들이 침수되었고, 차에 타고 있던 3명이 사망했다. 뉴스에 나오는 지하차도의 모습이 유난히 익숙했다. 부산역 옆에 위치한 지하차도인데, 부산에 내려갈 때마다 엄마가 나를 태우고 항상 지나치던 곳이었다.&lt;/p&gt;
 
-&lt;p&gt;Venerat custos vocabant mi et longo poplite Achillis regem aures communicat
-sedebat &lt;a href=&quot;http://perque-ad.com/&quot;&gt;mille&lt;/a&gt;. Haut pugnando Aurora populique grates
-simul, sub columque iubar. Caput postquam contigit remos coeamus, eadem
-Nonacrina &lt;a href=&quot;http://ea-oculi.org/proceres.html&quot;&gt;Iove&lt;/a&gt;: nullo dira levatus aevi
-Thetis &lt;strong&gt;ultima ecce ceu&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;다음 날, 엄마에게 전화가 왔다.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Lucem merces inmeritam Romanique orbis extemplo ira&lt;/li&gt;
-  &lt;li&gt;Quas vocat vidit clipeum&lt;/li&gt;
-  &lt;li&gt;Undis Iphide exercetque taurum ut quondam leoni&lt;/li&gt;
-  &lt;li&gt;Tantum litora matris Enipeus&lt;/li&gt;
-&lt;/ol&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;(엄마) 아들, 서울은 괜찮나?&lt;br /&gt;
+(나) 응, 부산은 어때? 완전 난리였던데..&lt;br /&gt;
+(엄마) 난리도 아이다. 센텀시티 주자창에 물이 들어와서 고급 외제차들 다 침수 댔다 카더라.&lt;br /&gt;
+(나) 헐.. 아 엄마 사람이 3명이나 죽었던데. 거기 우리 맨날 지나던 곳 아냐?&lt;br /&gt;
+(엄마) 아이고 맞다. 근데 그 죽은 사람 중에 하나가 니 또래 여자애 라더라. 니처럼 서울에 있다가 가끔씩 내려오는데, 하필 어제 오랜만에 내려와서 엄마가 태우러 갔다가 그렇게 되었다더라.&lt;br /&gt;
+(나) 에…. 진짜???&lt;br /&gt;
+(엄마) 그래,, 구조 대원이 엄마는 구했는데 딸은 못 구했단다. 구조 직전에 엄마랑 잡고 있던 손을 놓쳐서 물에 휩쓸려 갔다더라.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h2 id=&quot;decimo-illud&quot;&gt;Decimo illud&lt;/h2&gt;
+&lt;p&gt;23일 오후 10시 18분. 초량 제1지하차도에서 갑작스레 불어난 물에 차량 7대가 순식간에 잠겼다. 인근 도로에서 한번에 쏟아져 들어온 물은 높이 3.5m의 지하차도를 가득 채웠다. 엄청난 양의 물이 차로 쏟아 들어오자, 모녀는 밖으로 탈출했다. 하지만 수심은 너무 깊었고, 물살은 제자리를 지키기 힘들 정도로 빨랐다. 얼굴까지 물에 잠기는 상황에서도 둘은 손을 놓치지 않고 구조를 기다렸다. 출동한 구조 대원이 물에 잠겨있던 어머니를 잡아당겨 구조했다. 하지만 마지막 그 순간, 엄마는 잡고 있던 딸의 손을 놓치고 말았다. 그리고 그게 마지막이었다.&lt;/p&gt;
 
-&lt;p&gt;At iunxisse &lt;a href=&quot;http://times.com/&quot;&gt;multi&lt;/a&gt; Dryope, advocat omnes, iam et aequorei
-&lt;a href=&quot;http://tamenrecepit.io/fistula-trachine&quot;&gt;lentus&lt;/a&gt;. Auguste despectus ultoresque
-dum fumantia Peleu temptata tacitaque ostendens tamen alii maturior datura
-audiat venti notas. Quae ad Dictaei conligit, fata dum Hecaten quem, dat.
-Colebat armat nutrimen veniensque premens inmurmurat, &lt;a href=&quot;http://loquicurvantem.net/penetralibus-sine&quot;&gt;oculos volentem
-in&lt;/a&gt; tamen: fuga ora differt
-criminibusque? Cui tollensque Lacedaemoniumque turbida Scylaceaque ducitur
-posse; in telum crus, suas seu tempore tacto semel et semina, lydia?&lt;/p&gt;
+&lt;p&gt;고향에서, 그것도 항상 지나치던 곳에서 일어난 일이어서 그럴까, 한동안 숙연해져 일이 손에 잡히지 않았다. 언론은 이내 다시 잠잠해졌다. 아니, 정확히는 언제나 존재하는 다른 시끄러운 일들로 관심을 옮겨갔다. 이번 일은 그냥 부산에 큰 비가 왔고, 안타까운 인명피해가 있었다 정도로 넘어갈 테다. 그날 그 지하차도에서 죽은 사람들은 천재지변의 피해자로 기억될 것이다. 그리고 그렇게 끝이다.&lt;/p&gt;
 
-&lt;p&gt;Nostrasque meruique nunc perdidimus: ter ungues thalamoque nullus. Quid teneri,
-mole Telethusa non; res &lt;strong&gt;dixit&lt;/strong&gt;, est nullos iungere; an velis postquam, &lt;em&gt;et&lt;/em&gt;.
-Non herbae: sub Stygias morsibus.&lt;/p&gt;
+&lt;p&gt;하지만 그냥 이렇게 넘어가면 안 될 것 같은 느낌이 들었다. 지하차도에서의 안타까운 죽음들이 계속 마음에 걸렸다. 정말 막을 수 없었던 죽음이었을까? 단지 운이 없었던 것뿐일까? 어쩌면 딸의 손을 놓친 엄마의 실수였을까? 애초에 부산시는 이 정도 빗물에 마비가 될 수밖에 없었는가? 하수도는 범람할 수밖에 없었나? 차가 침수될 때 대처하는 방법을 많은 시민들이 알고 있었더라면, 결과는 달라지지 않았을까?&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Vacuae fassoque vidit&lt;/li&gt;
-  &lt;li&gt;Honorque exhortor hamis renuente parsque status&lt;/li&gt;
-  &lt;li&gt;Abstinet sparsis&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;‘팩트풀니스’라는 책에 이런 말이 나온다.&lt;/p&gt;
 
-&lt;p&gt;Petiit conterit &lt;strong&gt;quo iussit&lt;/strong&gt; nomen opes tum passus, iam &lt;strong&gt;possemque fixit&lt;/strong&gt;
-spectabilis: barbare index inpedit Rutulos canaeque, in. Rumor &lt;em&gt;terrae&lt;/em&gt; cognita
-multas ille talaria nec ligno delubraque in &lt;strong&gt;rursus&lt;/strong&gt;.&lt;/p&gt;</content><author><name>Lorem Ipsum</name></author><summary type="html">Lorem markdownum cum dixit exspectare sanguine favillae Boreas in libandas unda ast lacrimas, est monte membra mediumque vetus! Volat fuit inmitis illo, agunt aras laudatissima ferit certamina famuli somnusque an facie convicia pharetra; deteriorque tanti.</summary></entry></feed>
+&lt;blockquote&gt;
+  &lt;p&gt;어떤 일이 잘못되었을 때는 비난할 사람을 찾기보다 시스템을 봐야 한다. 문제는 항상 우리의 생각보다 복잡하다. 여러 원인이 얽힌 시스템이 문제일 때가 대부분이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;예를 들어, 기장이 잠깐 조는 사이에 추락한 비행기에서 많은 인명피해가 발생했다고 하자. 우리는 흔히 기장을 비난한다. 기장이 본분을 다하지 않고 뭐 하는 짓이냐고. 어제 술을 마신 건 아니냐고. 어떻게 책임질 거냐고. 그를 비난하는 것을 막을 순 없을 테다. 하지만 우리가 놓쳐서 안될 사실은 따로 있다. 바로 비행기를 추락시킨 근본적인 문제는 ‘시스템’이란 사실이다. 왜 피곤한 상태의 기장이 비행기를 몰게 되었는지, 항공사의 비행 스케줄이 너무 타이트하지는 않은지, 기장이 졸더라도 비행기가 추락하지 않을 수는 없었는지를 파악하는 것이 단순히 기장을 욕하고 마는 것보다 훨씬 중요하다.&lt;/p&gt;
+
+&lt;p&gt;마찬가지로 이번 사건도 단지 자연재해, 부산시의 미흡한 대처를 탓하며 넘어가서는 안된다. 일부 집단은 이 사건을 현 정권에 대한 비판으로 가져가기도 한다. 하지만 정권이 어떤 색을 띠고 있던 침수된 차에서 죽는 사람이 나와서는 안 된다. 많은 비가 내렸다고 도시의 하수관이 제 기능을 못하는 일이 생겨서는 안된다. 구조 대원이 제시간에 도착하지 못해 안타까운 생명을 잃는 일이 더 이상 생겨서는 안 된다. 이번 일은 특정 개인이나 단체, 정권의 문제가 아니다. 자연재해만의 문제도 아니다. 우리 사회 시스템의 문제로 봐야 한다.&lt;/p&gt;
+
+&lt;p&gt;얼마 전, 선릉역 개찰구에서 눈앞에 있던 여성이 갑자기 쓰러졌다. 늦은 시간이었기에, 술에 취한 사람인가 싶어 흘긋 봤는데 뭔가 이상했다. 의식이 없고 호흡이 멈춰 있는 것 같았다. 나를 포함한 몇몇 분이 이상한 낌새를 느끼고 여성분을 흔들어 깨웠다. 미동이 없었다. 얼른 119에 연락했다. 119에 상황을 설명하는 사이 다행히 쓰러진 여성분의 의식이 돌아왔다. 근처 벤치로 여성분을 부축하고 약 5분이 지나자 지하철 요원이 달려왔다. 주변 사람들의 침착한 대처와 119의 신속한 출동 덕분에 큰일이 생기지는 않았다.&lt;/p&gt;
+
+&lt;p&gt;하지만 상황을 달리 가정해보자. 만약 그 여성이 계속해서 의식을 차리지 못했고, 호흡이 돌아오지 않는 상태였다면 어떻게 되었을까? 내가 CPR과 인공호흡을 할 수 있었을까? 내 주변 사람 중에는? 지하철역에 있는 일반인 중 CPR과 인공호흡을 할 줄 알고 직접 행할 수 있는 사람이 몇이나 될까? 그리고 의식이 없는 여성분을 상대로 5분이란 출동 시간은 너무 길다. 현행 시스템 상으로는 그 여성분을 온전하게 살릴 확률이 높진 않았으리라 생각한다.&lt;/p&gt;
+
+&lt;p&gt;여전히 사회 곳곳에 많은 시스템 차원의 문제들이 산재해 있다. 우리는 ‘팩티풀니스’의 말처럼 비난할 사람을 찾기보다 시스템을 보는 자세를 가져야 한다. 일이 잘못되었다고 해서 그를 정치적인 목적으로 사용하거나 책임을 물을 대상을 찾아 헤매서는 안된다. 욕을 한다고 무엇이 달라지나. 수많은 ‘책임지고 사퇴한’ 사람들이 있었지만, 무엇이 얼마나 더 나아지고 바뀌었는가. 중요한 것은 비극적이고 비효율적인 일들이 다시는 생기지 않도록 하는 시스템을 만드는 것이다.&lt;/p&gt;
+
+&lt;p&gt;우리는 이미 수도 없이 경험했다. 한 나라의 대통령에게 책임을 묻는다 해도 침몰했던 배가 다시 떠오르지는 않는다. 책임자가 누구든지, 그에 상관없이 건전하게 돌아가는 사회시스템을 만들 수 있다면 많은 문제들을 예방할 수 있다. 그리고 시스템을 바꾸는 주체는 우리 모두가 되어야 한다. 시스템은 정부와 지자체에서 바꾸는 것이 아니라, 사회 구성원 모두의 컨센서스에 의해서 바뀌어 나가야 한다. 왜냐하면 침수되는 차 안에서, 가라앉는 배 안에서, 지하철 개찰구에서 쓰러질 수 있는 사람이 내가 될 수도 있기 때문이다. 사회시스템이 보호해 주지 못할 때 우리는 한없이 연약하고 위험해진다.&lt;/p&gt;</content><author><name>Heeuk</name></author><summary type="html"></summary></entry><entry><title type="html">68 Bits of Unsolicited Advice</title><link href="http://localhost:4000/68-Bits-of-Unsolicited-Advice.html" rel="alternate" type="text/html" title="68 Bits of Unsolicited Advice" /><published>2020-07-23T17:55:13+09:00</published><updated>2020-07-23T17:55:13+09:00</updated><id>http://localhost:4000/68-Bits-of-Unsolicited-Advice</id><content type="html" xml:base="http://localhost:4000/68-Bits-of-Unsolicited-Advice.html">&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;https://kk.org/thetechnium/68-bits-of-unsolicited-advice/&quot;&gt;68 Bits of Unsolicited Advice&lt;/a&gt;
+&lt;br /&gt;
+과학 기술 문화 전문 잡지 &lt;와이어드&gt;의 공동 창간자이자 편집장이었던 Kevin Kelly가 68살 생일을 맞이하여 내놓은 68가지 조언.  
+하나하나 마음을 흔드는 주옥같은 말들이어서 블로그에 기록한다.&lt;/와이어드&gt;&lt;/p&gt;
+
+&lt;p&gt;그 중에서도 인상깊었던 몇 가지를 공유해보자면,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Never use a credit card for credit. The only kind of credit, or debt, that is acceptable is debt to acquire something whose exchange value is extremely likely to increase, like in a home. The exchange value of most things diminishes or vanishes the moment you purchase them. Don’t be in debt to losers.&lt;/strong&gt; (신용카드를 사용하지 마세요. 허용 가능한 유일한 부채는 ‘집’처럼 가격이 끝내는 오를만한 것을 사려고 할 때뿐입니다. 대부분 물건의 가치는 구입순간부터 감소하거나 사라집니다. 빚지지 마세요.)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Don’t be the smartest person in the room. Hangout with, and learn from, people smarter than yourself. Even better, find smart people who will disagree with you.&lt;/strong&gt; 방에서 가장 똑똑한 사람이 되지 마세요. 자신보다 더 똑똑한 사람들과 만나고 배우세요. 더 나아가 당신에게 동의하지 않는 똑똑한 사람들을 찾으세요.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Never use a credit card for credit. The only kind of credit, or debt, that is acceptable is debt to acquire something whose exchange value is extremely likely to increase, like in a home. The exchange value of most things diminishes or vanishes the moment you purchase them. Don’t be in debt to losers.&lt;/strong&gt; 모두 부끄러워합니다. 다른 사람들은 당신이 자신을 소개해주기를, 이메일을 보내주기를, 데이트를 요청해주기를 기다리고 있어요. 지금 실행하세요.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;When you are young spend at least 6 months to one year living as poor as you can, owning as little as you possibly can, eating beans and rice in a tiny room or tent, to experience what your “worst” lifestyle might be. That way any time you have to risk something in the future you won’t be afraid of the worst case scenario.&lt;/strong&gt; 젊었을 때 가능하다면 적어도 6개월에서 1년까지 아주 작은 방이나 텐트에서 콩과 쌀만 먹으며 빈곤하게 생활해보세요. “가장 나쁜” 생활이 어떨지 한번 경험해보세요. 그러면 미래에 뭔가 위험을 감수해야 할 때, 최악의 시나리오를 두려워하지 않을 것입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;To make something good, just do it. To make something great, just re-do it, re-do it, re-do it. The secret to making fine things is in remaking them.&lt;/strong&gt; 좋은 것을 만들려면 그냥 하세요. 위대한 것을 만들려면 다시 하고, 다시 하고, 다시 하세요. 훌륭한 것을 만드는 비결은 다시 만들어 보는 것입니다.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Heeuk</name></author><summary type="html">68 Bits of Unsolicited Advice 과학 기술 문화 전문 잡지 의 공동 창간자이자 편집장이었던 Kevin Kelly가 68살 생일을 맞이하여 내놓은 68가지 조언. 하나하나 마음을 흔드는 주옥같은 말들이어서 블로그에 기록한다.</summary></entry><entry><title type="html">이슬아의 [심신단련]을 읽고</title><link href="http://localhost:4000/%EC%9D%BC%EC%83%81%EC%9D%84-%EC%93%B0%EB%8A%94-%EC%9E%91%EA%B0%80.html" rel="alternate" type="text/html" title="이슬아의 [심신단련]을 읽고" /><published>2020-04-25T00:00:00+09:00</published><updated>2020-04-25T00:00:00+09:00</updated><id>http://localhost:4000/%EC%9D%BC%EC%83%81%EC%9D%84-%EC%93%B0%EB%8A%94-%EC%9E%91%EA%B0%80</id><content type="html" xml:base="http://localhost:4000/%EC%9D%BC%EC%83%81%EC%9D%84-%EC%93%B0%EB%8A%94-%EC%9E%91%EA%B0%80.html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/og/mindset.jpg&quot; alt=&quot;심신단련&quot; /&gt;
+&lt;br /&gt;
+나는 여태껏 수많은 약속들을 어기며 살아왔는데 차마 헤아리기도 힘들 지경이다. 다행인지 불행인지, 어겼던 약속 중 대부분은 스스로와 한 약속이었다. 다른 사람과의 약속도 지키지 못한 적이 많지만 꽤나 곤란한 상황이 벌어지는 것을 경험한 후로는 최선을 다해 지키려고 노력한다. 하지만 그에 비해 나와의 약속은 지키지 못하더라도 큰일이 생기지는 않더라. 그래서인지 약속과 파토가 너무 자연스러워졌다고 할까.&lt;/p&gt;
+
+&lt;p&gt;그 중 가장 최근에 파토가 나버린 약속은 ‘매일 글쓰기’였다. 언제부터인가 글을 잘 쓰는 사람이 멋져 보였다. 나도 그렇게 되고 싶어서 매일 글을 쓰자 다짐했었다. 일종의 ‘습관 만들기 프로젝트’였다. 하지만 하루도 빠짐없이 글감을 찾고 그를 적절한 문장으로 표현하는 일은 여간 힘든 게 아니었다. 더욱이 괜찮은 메시지를 담은 글을 쓰고 싶은 욕심까지 있었다. 내 심금을 울린 수많은 글처럼 나도 누군가에게 그런 글을 주고 싶은 마음이 들었다. 하지만 분수를 모르고 욕심만 앞서다 보면 될 일도 안될 터였다. 결국 일주일만에 포기해버리고 말았다.&lt;/p&gt;
+
+&lt;p&gt;나와의 약속은 항상 무언가를 남기는데 대체로 죄책감이다. 또 실패하고 말았다는 기분 나쁜 죄책감을 나는 수없이 경험해왔다. 하지만 그럼에도 나와의 약속을 계속하는 이유는 성공여부를 떠나 때때로 내게 작은 변화가 생기기 때문이다. 긍정적인 변화가. 이번이 바로 그런 경우였는데 매일 글쓰기 프로젝트는 실패했지만 글에 대한 열정은 오히려 더 커졌다. 이 어려운 것을 더 잘해보고 싶다는 생각이 들었다. 당장의 조급한 마음을 버리고 괜찮은 글들을 찾아 읽었다. 덕분에 그동안 모르고 살았던 매력적인 책과 작가들을 알게 되었다.&lt;/p&gt;
+
+&lt;p&gt;그 중 나와 같은 프로젝트를 했던 사람을 알게 되었다. 차이가 있다면 그 사람은 매일 글을 쓴다는 약속을 몇 년째 지켜오고 있었다. 구독자에게 이메일로 매일 글 한 편을 보내는 것으로 유명해진, 이제는 한 출판사의 대표가 된, 나와 같은 이십대의 작가 ‘이슬아’였다. 2018년 말, 그녀의 이름이 뉴스기사로 종종 등장하던 것을 기억한다. 이메일로 글을 판다는 완전히 새로운 유통모델이 당시로서는 화젯거리였다. 하지만 그녀의 글을 직접 읽어볼 기회는 없었다. 아무래도 그동안 나는 그녀가 쓰는 수필이나 에세이류를 즐겨 읽던 사람이 아니었기 때문이다.&lt;/p&gt;
+
+&lt;p&gt;그랬다가 최근에서야 그녀의 글을 처음 보게 되었는데, 한 작은 독립서점에서였다. 나는 가끔 대형서점에 진열된 화려한 디자인과 자극적인 문구로 가득한 책들에 피로를 느끼곤 한다. 겉표지만큼이나 그 내용도 자극적이기 때문이다. 그럴 때면 독립서점이 훌륭한 도피처가 되어주는데 그곳의 조금은 성의 없게 디자인된 듯한 책들이 왜 인지 정겹게 다가온다. 그녀의 책도 그런 책들 중 하나였다. 감각적인 사진 한 장에 제목과 작가의 이름만 떡하니 써 있는, 책의 제목은 &lt;심신단련&gt;이었다. 구독자에게 이메일로 보내던 짧은 글을 엮어낸 책이라는 설명이 쓰여 있었다. 습관처럼 책을 뒤집어 표지 뒤편을 보았다. 책 뒤편의 추천사는 눈앞에 놓인 수많은 책들 중 꼭 그 책을 봐야 한다는 확신같은 것을 주곤 한다. 이슬아의 책 뒤편에는 이런 말이 쓰여 있었다.&lt;/심신단련&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“나는 당신에게 이슬아의 글이 왜 좋은지 설명할 필요가 없다. 당신도 이미 읽었으니까. 아마 당신이 나보다 더 잘 알고 있을 테니까. 반면 본문보다 이 글을 먼저 읽기 시작한 평범하지 않은 독자가 세상에 존재하며 그게 바로 당신이라면, 미안하지만 뭐라고 말해야 할지 도무지 모르겠다. 이제라도 본문을 읽는 게 좋겠다는 말밖에는…”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;오호라. 나를 평범하지 않은, 불쌍한 사람으로 만들어버리는 서평에 약간의 오기가 발동했다. 도대체 어떤 글을 쓰길래 글 좀 읽는다는 사람들 사이에서 그토록 유명한지 궁금하기도 했다. 그렇게 그 자리에서 글 몇 편을 읽었고 이슬아의 팬이 되기까지 그리 오랜 시간이 걸리진 않았다. 그녀의 책은 지금 내 침대맡에 놓여있다. 요즘 잠들기 전 책에 수록된 그녀의 수필을 한 편씩 읽는다. 중요한 것은 한 편씩만 읽으려고 노력한다는 사실인데 그녀의 글 없이 잠들어야 할 밤을 최소화하기 위해 내가 정한 하나의 규칙이었다.&lt;/p&gt;
+
+&lt;p&gt;이슬아를 인터뷰한 한 기자는 그녀의 글을 이렇게 묘사했다. ‘그의 글을 읽을 때마다 밤이라는 무채색 시간이 알록달록해졌다. 스물일곱살이지만 아직도 혼자 자는 게 무서운 이슬아, 두려움에 직면하면 자기도 모르게 기도하는 이슬아, 좋아하는 사람 앞에서 우물쭈물하는 이슬아.. 이슬아의 이야기지만, 온전히 이슬아의 것만은 아닌 이야기였다.’ 그랬다. 글을 읽다 보면 그녀가 얼마나 까탈스럽고 겁이 많고 욕심이 많으며 창피한 일도 많고 눈물이 많은 지 알 수 있다. 이십 대 청년 답게 몸매에, 사랑에, 섹스에 대해 고민하는 모습도 볼 수 있다. 그녀의 솔직함에 때로는 내 얼굴이 붉어지기도 했다. 하지만 그럴수록 그녀의 글이 더 좋아지는 이유는 그녀 안에서 나를 발견해서일까. 사람은 누구나 꽤나 아이 같고 응큼한 구석이 있다는 비밀을 그녀가 속 시원하게 말해주어서. 그녀의 솔직하고 유쾌한 이야기를 듣다 보면 요란한 생각과 감정의 찌꺼기들로 가득 찬 머릿속이 편안해지는 느낌이었다.&lt;/p&gt;
+
+&lt;p&gt;그녀의 글에는 특별한 주제도, 사람도 등장하지 않는다. 주로 자신이 그리고 친구, 부모님, 남자친구가 이따금 고양이가 등장할 뿐이다. 그녀의 표현을 빌리자면 그녀는 자신의 반경 1km 밖에 보지 못하는 사람이라고 한다. 그래서 그 안에 있는 생명들만 글에 등장시킬 수밖에 없다고. 그러면서 더 넓은 세상을 볼 줄 아는 작가가 되기를 꿈꾼다. 하지만 그녀가 반경 1km안의 그들을 얼마나 따뜻하고 다채롭고 그래서 아름답게 표현하는지는 글을 읽지 않으면 알지 못할 것이다. 사실 내 주위도 그렇게 아름다울지도 모른다는 기대를 할 정도로.&lt;/p&gt;
+
+&lt;p&gt;어떻게 보면 우리가 삶이라고, 인생이라고 말하는 것은 고작 자신의 반경 1km 안을 경험해 온 이야기일지도 모르겠다. 세상에는 얼마나 많은 삶들이 있을까. 그리고 우리가 안다고 생각하는 삶이란 것은 그 중에서 얼마나 작은 일부일까. 그녀는 누구보다 그 사실을 충실히 이해하고 있는 것 같았다. 어설프게 세상을 가르치려 들기보다 자기 주변의 것들에 사랑과 시간을 쏟았다. 그녀가 세상을 얘기하기보다 친구를 얘기해서 좋았고 멋있는 위인을 얘기하기보다 부모님을 얘기해서 좋았다. 당위에 대해서 얘기하기보다 솔직하고 불완전한 자아에 대해 얘기해서 좋았다. 그리고 끊임없이 무섭고 모르겠다고 얘기해서 좋았다. 사실 아닌 척하지만 나도 그렇기 때문이다. 어쩌면 우리 모두가.&lt;/p&gt;
+
+&lt;p&gt;이슬아의 글을 읽으며 내가 지키지 못한 수많은 약속들을 떠올려 본다. 자신과의 약속이란 대게 더 나은 미래를 향한 다짐인 경우가 많다. 이 좋아 보이는 말에는 사실 슬픈 내면이 있다. 바로 미래의 모습을 좇다가 현재의 나를 종종 놓쳐버리곤 한다는 것이다. 오늘의 사회에는 자극을 주는 메시지들이 넘쳐난다. 일찍 일어나라는 자기계발서, 부자가 되는 비법서, 멋있고 똑똑한 SNS상의 사람들, 끊임없이 쏟아져 나오는 ‘하라’, ‘하는 법’의 늪에서 우리는 살고 있다. 대단해 보이고 멋있는 것들이 너무 많고 무언가 하지 않으면 뒤쳐지는 것 같기도 하다. 메시지들이 얘기하는 멋진 미래를 상상하며 홀린 듯 자신과의 약속을 반복하는 사람이 나뿐만은 아닐 것이다.&lt;/p&gt;
+
+&lt;p&gt;그래서일까? 많은 사람들이 그녀의 글을 찾고 위로를 받는 이유가. 그녀는 우리에게 일찍 일어나라고 하지도 않고, 열심히 살라고 하지도 않으니까. 힘들면 힘들다고, 슬프면 슬프다고, 못하겠으면 못하겠다고 말하니까. 글을 읽는 내내 그런 그녀가 되게 용감하고 행복해 보였다. 뻔하지만 참 와 닿지 않는 말이 떠오른다. 행복을 느끼는 사람은 과거도 미래도 아닌 지금 이 순간의 나라는 것. 지금을 행복하게 살아가는 법을 알지 못하면 영영 행복과는 가까워질 수 없을 지도 모른다. 미래를 향한 약속도 좋지만, 지금 나와 내 주위의 사람들을 향한 약속도 조금씩 늘려가는 것이 어떨까 생각해본다.&lt;/p&gt;</content><author><name>Heeuk</name></author><summary type="html"></summary></entry></feed>
