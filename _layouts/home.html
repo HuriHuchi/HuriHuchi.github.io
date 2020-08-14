@@ -36,7 +36,7 @@ layout: default
   </ul>
 
   {%- if site.posts.size > 0 -%}
-  <h2>{{ page.list_title | default: "Essays" }}</h2>
+  <h2>{{ page.list_title | default: "Posts" }}</h2>
   <ul class="more-space">
     {%- for post in site.posts limit:10 -%}
     <li>
