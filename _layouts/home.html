@@ -14,6 +14,7 @@ layout: default
   }
 </style>
 
+<!-- 오른쪽 프로필 이미지 -> about 페이지로 연결됨 -->
 <header>
   <h1>{{ site.title | escape }}</h1>
   <a href="/about/"><img src="/assets/logo.png" alt="profile-image" /></a>
@@ -23,8 +24,8 @@ layout: default
   {{ content }}
 
   <hr />
-
-  <h2>{{page.list_title | default: "Featured"}}</h2>
+  <!-- Featured -->
+  <!-- <h2>{{page.list_title | default: "Featured"}}</h2>
   <ul class="more-space">
     {% for post in site.posts %} {% if post.featured == true %}
     <li>
@@ -33,8 +34,23 @@ layout: default
       >
     </li>
     {% endif %} {% endfor %}
+  </ul> -->
+
+  <!-- About Product -->
+  <a href="/product/" class="a-title"
+    ><h2>{{page.list_title | default: "Product"}}</h2></a
+  >
+  <ul class="more-space">
+    {% for post in site.posts %} {% if post.type-product == true %}
+    <li>
+      <a href="{{ post.url | relative_url }}" class="post-link"
+        >{{post.title | escape}}</a
+      >
+    </li>
+    {% endif %} {% endfor %}
   </ul>
 
+  <!-- All Posts -->
   {%- if site.posts.size > 0 -%}
   <h2>{{ page.list_title | default: "Posts" }}</h2>
   <ul class="more-space">
